@@ -3,3 +3,6 @@ Console.WriteLine("Hello, World!");
 
 // This code added from Master branch
 Console.WriteLine("This code is for testing Master Branch");
+
+// This codes are added from test-1 branch
+Console.WriteLine("Test-1 branch is added");
